@@ -1,5 +1,13 @@
-## Hi there 👋, I'm XPLOZ
+<div align="Center">
+    <h1>Hi there 👋, I'm XPLOZ</h1>
+</div>
+<br>
 
-test
+### About me 📖
+<p align="center">
+<br>
+<br>
 
-
+    <img src"src/Presentation.gif> 
+</p>
+<img src"src/Presentation.gif" width="800px"> 
