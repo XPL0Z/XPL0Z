@@ -3,7 +3,8 @@
 </div>
 <div align="center">
     <h2>Some stats</h2>
-    <img src="https://read-me-stat-xpl0zs-projects.vercel.app/api?username=xpl0z&theme=radical"/>
+    <img src="https://read-me-stat-xpl0zs-projects.vercel.app/api?username=xpl0z&theme=radical&cacheBust=1"/>
+
     
 <div align="center">
     <h2>My badges</h2>
