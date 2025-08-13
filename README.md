@@ -9,5 +9,5 @@
 <br>
 
     <img src"src/Presentation.gif> 
-</p>
+
 <img src"src/Presentation.gif" width="800px"> 
