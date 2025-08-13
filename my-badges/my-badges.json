@@ -1,0 +1,16 @@
+[
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"readme.md\".",
+    "body": "My favorite commit message words are:\n\n1. readme.md (used 11 times)\n2. update (used 9 times)\n3. create (used 2 times)\n4. my-badges.yml (used once)\n5. added (used once)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/XPL0Z/XPLOZ\">XPL0Z/XPLOZ</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  }
+]
