@@ -10,4 +10,4 @@
 
     <img src"src/Presentation.gif> 
 
-<img src"src/Presentation.gif" width="800px"> 
+<img src"Presentation.gif" width="800px"> 
