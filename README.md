@@ -4,9 +4,9 @@
 
 <div align="center">
     <h2>Some stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=xpl0z&show_icons=true&theme=radical" style="border: 3px solid #239962; border-radius: 8px; margin-bottom: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xpl0z&show_icons=true&theme=radical&border_color=239962"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl0z&layout=donut&theme=radical" style="border: 3px solid #239962; border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl0z&layout=donut&theme=radical&border_color=239962"/>
 </div>
 
 
