@@ -8,6 +8,4 @@
 <br>
 <br>
 
-    <img src"src/Presentation.gif> 
-
-<img src"presentation.gif" width="800px"> 
+<img src="presentation.gif" width="800px"> 
