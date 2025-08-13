@@ -1,9 +1,14 @@
 <div align="center">
     <h1>Hi there 👋, I'm XPLOZ</h1>
 </div>
+
 <div align="center">
     <h2>Some stats</h2>
-    <img src="https://read-me-stat-xpl0zs-projects.vercel.app/api?username=xpl0z&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xpl0z&show_icons=true&theme=radical" style="border: 3px solid #239962; border-radius: 8px; margin-bottom: 10px;"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl0z&layout=donut&theme=radical" style="border: 3px solid #239962; border-radius: 8px;"/>
+</div>
+
 
     
 <div align="center">
@@ -16,5 +21,7 @@
 
 <div align="center">
     <h2 style="border-bottom: none; font-size: 40px;">About me 📖</h2>
-    <img src="media/1-year.gif" width="800px">
+    <img src="media/1-year.gif" width="800px" style="border: 3px solid #239962; border-radius: 8px;">
+    <img src="media/bordered-1-year.svg">
+
 </div>
