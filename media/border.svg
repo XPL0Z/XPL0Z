@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="806" height="806">
-  <!-- Bordure arrondie -->
-  <rect x="1.5" y="1.5" width="803" height="803" rx="8" ry="8" fill="none" stroke="#239962" stroke-width="3"></rect>
-  <!-- Ton GIF animé -->
-  <image href="media/1-year.gif" x="3" y="3" width="800" height="800"></image>
-</svg>
