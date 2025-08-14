@@ -23,6 +23,6 @@
 
 <div align="center">
     <h2 style="border-bottom: none; font-size: 40px;">About me 📖</h2>
-    <img src="media/2-year.gif" width="800px" style="border: 3px solid #239962; border-radius: 8px;">
+    <img src="media/1-year.gif" width="800px" style="border: 3px solid #239962; border-radius: 8px;">
 
 </div>
