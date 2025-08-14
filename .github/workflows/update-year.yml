@@ -3,7 +3,7 @@ name: Update README year GIF
 
 on:
   schedule:
-    - cron: "10 9 14 8 *" # Tous les jours à minuit UTC
+    - cron: "30 9 14 8 *" # Tous les jours à minuit UTC
   workflow_dispatch:
 
 jobs:
