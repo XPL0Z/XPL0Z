@@ -2,7 +2,7 @@
 <strong>I&apos;ve starred 1 my own repositories.</strong>
 <br><br>
 
-- <a href="https://github.com/XPL0Z/XPLOZ">XPL0Z/XPLOZ</a>
+- <a href="https://github.com/XPL0Z/XPL0Z">XPL0Z/XPL0Z</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
