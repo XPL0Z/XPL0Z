@@ -19,4 +19,4 @@ with open("README.md", "w", encoding="utf-8") as f:
 
 print(f"README mis à jour avec media/{years_passed}-year.gif")
 
-years =+ 1
+years += 1
