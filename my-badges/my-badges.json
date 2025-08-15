@@ -2,8 +2,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"readme.md\".",
-    "body": "My favorite commit message words are:\n\n1. readme.md (used 20 times)\n2. update (used 18 times)\n3. rename (used 4 times)\n4. delete (used 2 times)\n5. add (used 2 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 29 times)\n2. readme.md (used 22 times)\n3. update-year.yml (used 7 times)\n4. rename (used 4 times)\n5. update_gif.py (used 3 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -26,5 +26,12 @@
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/XPL0Z/XPL0Z/commit/c1dead72cd196a55dd80c77ada1481114ab2b777\">c1<strong>dead</strong>72cd196a55dd80c77ada1481114ab2b777</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
