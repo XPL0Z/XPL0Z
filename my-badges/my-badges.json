@@ -3,7 +3,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 39 times)\n2. readme.md (used 37 times)\n3. de (used 10 times)\n4. update-year.yml (used 7 times)\n5. ajout (used 6 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. readme.md (used 41 times)\n3. de (used 10 times)\n4. update-year.yml (used 7 times)\n5. ajout (used 6 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -33,5 +33,19 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/bb8541c033b8c9e6866c99a05106f81132a00ede\">bb8541c</a>: fix conflict\n- <a href=\"https://github.com/XPL0Z/spotish/commit/2b70113ae5df748fecc4704249e54a4861146f1b\">2b70113</a>: fix doc and demo",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/8ab582c1103fdb2dbedfdb3250ae73849c09d4c9\">8ab582c</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
