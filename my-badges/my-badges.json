@@ -3,7 +3,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. readme.md (used 41 times)\n3. de (used 10 times)\n4. update-year.yml (used 7 times)\n5. ajout (used 6 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 48 times)\n2. readme.md (used 44 times)\n3. de (used 10 times)\n4. update-year.yml (used 7 times)\n5. close (used 6 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -47,5 +47,12 @@
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/8ab582c1103fdb2dbedfdb3250ae73849c09d4c9\">8ab582c</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   }
 ]
