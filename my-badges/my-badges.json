@@ -3,7 +3,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 51 times)\n2. readme.md (used 45 times)\n3. close (used 13 times)\n4. de (used 10 times)\n5. fix (used 7 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 58 times)\n2. readme.md (used 45 times)\n3. close (used 15 times)\n4. fix (used 13 times)\n5. de (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -54,5 +54,26 @@
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/XPL0Z/spotish/commit/aba3d388c4d560e2ed57bf2df3ba2d55d14e9821\"><strong>ab</strong>a3d388c4d560e2ed57bf2df3ba2d55d14e9821</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/eb1625d9d0bfc28e02ec8db498f63e43d6494327\">eb1625d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/eb1625d9d0bfc28e02ec8db498f63e43d6494327\">eb1625d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]
