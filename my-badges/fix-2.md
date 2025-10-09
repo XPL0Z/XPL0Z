@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/XPL0Z/spotish/commit/bb8541c033b8c9e6866c99a05106f81132a00ede">bb8541c</a>: fix conflict
-- <a href="https://github.com/XPL0Z/spotish/commit/2b70113ae5df748fecc4704249e54a4861146f1b">2b70113</a>: fix doc and demo
+- <a href="https://github.com/XPL0Z/spotish/commit/6fb5082f07519e373fe071f22faeb6f1178d7d0b">6fb5082</a>: fix in download optimisation
+- <a href="https://github.com/XPL0Z/spotish/commit/4cc308998ee81c188c991cbb017a74b50ab5fdcc">4cc3089</a>: fix in download optimisation
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
