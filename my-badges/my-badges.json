@@ -3,7 +3,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 63 times)\n2. readme.md (used 45 times)\n3. /play (used 23 times)\n4. close (used 19 times)\n5. not (used 17 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 64 times)\n2. readme.md (used 45 times)\n3. /play (used 24 times)\n4. fix (used 20 times)\n5. close (used 19 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -23,8 +23,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/XPL0Z/XPL0Z/commit/c1dead72cd196a55dd80c77ada1481114ab2b777\">c1<strong>dead</strong>72cd196a55dd80c77ada1481114ab2b777</a>",
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/XPL0Z/spotish/commit/49df8d644d46d8a98002074258515b9dead24c18\">49df8d644d46d8a98002074258515b9<strong>dead</strong>24c18</a>\n- <a href=\"https://github.com/XPL0Z/XPL0Z/commit/c1dead72cd196a55dd80c77ada1481114ab2b777\">c1<strong>dead</strong>72cd196a55dd80c77ada1481114ab2b777</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
