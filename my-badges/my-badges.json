@@ -3,7 +3,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 64 times)\n2. readme.md (used 45 times)\n3. /play (used 24 times)\n4. fix (used 20 times)\n5. close (used 19 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 66 times)\n2. readme.md (used 45 times)\n3. fix (used 24 times)\n4. /play (used 24 times)\n5. close (used 19 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/eb1625d9d0bfc28e02ec8db498f63e43d6494327\">eb1625d</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/XPL0Z/spotish/commit/99f3e714fad6357d3d864936950ace94e2d3f8f9\">99f3e71</a>: fix in /mix ?\n- <a href=\"https://github.com/XPL0Z/spotish/commit/94f3a0df2f3cabd1aa475f60df8498e740022815\">94f3a0d</a>: fix in /queue\n- <a href=\"https://github.com/XPL0Z/spotish/commit/164847219c34cf9e1279172025b6c67523798af3\">1648472</a>: fix in /pause and /resume",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
