@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/XPL0Z/spotish/commit/3e861795d48d2593095d4fb9b4439e779db657f8">3e86179</a>
 - <a href="https://github.com/XPL0Z/spotish/commit/62ccdf32919ee40968ac24ea36ea53cd375e047a">62ccdf3</a>
 - <a href="https://github.com/XPL0Z/spotish/commit/8ab582c1103fdb2dbedfdb3250ae73849c09d4c9">8ab582c</a>
 
