@@ -4,8 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/XPL0Z/spotish/commit/6fb5082f07519e373fe071f22faeb6f1178d7d0b">6fb5082</a>: fix in download optimisation
-- <a href="https://github.com/XPL0Z/spotish/commit/4cc308998ee81c188c991cbb017a74b50ab5fdcc">4cc3089</a>: fix in download optimisation
+- <a href="https://github.com/XPL0Z/spotish/commit/0f316a46e060d3d57115fc6966f049b196796f20">0f316a4</a>: Fix formatting and headings in README.md
+
+Removed a line
+- <a href="https://github.com/XPL0Z/spotish/commit/f148d7d4517e5bee1d39fbfede346e004db611bb">f148d7d</a>: Fix header levels for contributors section in README
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
