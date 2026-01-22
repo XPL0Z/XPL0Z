@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. update (used 76 times)
 2. readme.md (used 49 times)
 3. fix (used 34 times)
-4. /play (used 24 times)
-5. added (used 23 times)
+4. added (used 27 times)
+5. /play (used 24 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
