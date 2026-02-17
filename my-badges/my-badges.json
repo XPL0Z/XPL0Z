@@ -77,10 +77,10 @@
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
